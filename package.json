@@ -1,0 +1,17 @@
+{
+  "name": "tour1",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Switzerland ทัวร์สวิตเซอร์แลนด์ 2565 - ทัวร์ยุโรป 2565",
+  "keywords": [
+    "Switzerland",
+    "ทัวร์ปีใหม่",
+    "ทัวร์ยุโรป2565",
+    "oneworldtour"
+  ],
+  "repository": "https://github.com/owtwct/tour1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
